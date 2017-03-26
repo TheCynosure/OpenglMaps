@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/OpenGLLearning.dir/main.cpp.o CMakeFiles/OpenGLLearning.dir/shaders.cpp.o  -o OpenGLLearning /usr/lib/x86_64-linux-gnu/libGLEW.so -lglfw /usr/lib/x86_64-linux-gnu/libGL.so 

@@ -1,0 +1,9 @@
+You need the following dependencies to run this program.
+GLEW
+GLFW 3
+GLM
+
+You can install them with the following commands using homebrew.
+brew install glew
+brew install glfw3
+brew install glm

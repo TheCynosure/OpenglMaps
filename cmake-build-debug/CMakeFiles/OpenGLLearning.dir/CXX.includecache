@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jack/Dev/OpenGLLearning/main.cpp
+GL/glew.h
+-
+GLFW/glfw3.h
+-
+iostream
+-
+shaders.h
+/home/jack/Dev/OpenGLLearning/shaders.h
+
+/home/jack/Dev/OpenGLLearning/shaders.cpp
+GL/glew.h
+-
+stdio.h
+-
+string
+-
+ios
+-
+fstream
+-
+vector
+-
+
+/home/jack/Dev/OpenGLLearning/shaders.h
+GL/glew.h
+-
+

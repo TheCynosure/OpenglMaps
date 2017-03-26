@@ -1,0 +1,10 @@
+The linux build of this project requires the following dependencies
+GLEW
+GLFW 3
+GLM
+
+You can install them through the following commands with apt.
+
+apt-get install libglew-dev
+apt-get install libglfw3-dev
+apt-get install libglm-dev

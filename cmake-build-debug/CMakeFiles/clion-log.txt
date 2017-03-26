@@ -1,0 +1,4 @@
+/home/jack/Clion/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/jack/Dev/OpenGLLearning
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/jack/Dev/OpenGLLearning/cmake-build-debug
