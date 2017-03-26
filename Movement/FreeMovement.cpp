@@ -65,8 +65,4 @@ void FreeMovement::rotate(float angle, glm::vec3 axis) {
 
     //Translate the target by our translation back matrix
     target = glm::vec3(translateBackMatrix * targetMovedToCamera);
-    glm::vec3 right = glm::vec3(glm::rotate(glm::mat4(1.0f), (float) (M_PI / 2), glm::vec3(0,1,0)) * glm::vec4(translateBackVector,0));
-    right = glm::vec3(right.x, position.y, right.z);
-    std::cout << position.x << ":" << -target.x << " " << position.y << " " << position.z << ":" << -target.z << std::endl;
-    up = glm::cross(right, target);
 }

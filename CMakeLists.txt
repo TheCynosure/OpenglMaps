@@ -5,6 +5,9 @@ set(CMAKE_RUNTIME_OUTPUT_DIRECTORY "/home/jack/Dev/OpenGLLearning/Debug")
 #Add our findGLM.cmake file to the CMAKE_MODULE_PATH
 set(CMAKE_MODULE_PATH ${CMAKE_MODULE_PATH} "${CMAKE_SOURCE_DIR}/custom_cmake_files/")
 
+#Add CPR, used for Get requests
+add_subdirectory(cpr)
+
 find_package(glfw3 3.1 REQUIRED)
 find_package(OpenGL REQUIRED)
 find_package(GLM REQUIRED)
@@ -12,15 +15,15 @@ find_package(GLEW REQUIRED)
 if (CMAKE_SYSTEM_NAME STREQUAL Linux)
     #Make sure to have the proper dependencies installed to build this program.
         # They are listed in README.Linux
-    include_directories("/usr/include")
-    link_libraries(GLEW ${OPENGL_gl_LIBRARY} glfw)
+    include_directories(${CPR_INCLUDE_DIRS} "/usr/include")
+    link_libraries(GLEW ${OPENGL_gl_LIBRARY} glfw ${CPR_LIBRARIES})
 elseif(APPLE)
     #Make sure you have the correct dependencies installed to build this program
         # They are listed in README.Mac
     set(BREW_DIR [YOUR_BREW_CELLAR_DIRECTORY])
     set(FRAMEWORKS "-framwork Cocoa -framework OpenGL -framework IOKit -framework CoreVideo")
-    include_directories(${BREW_DIR}/glfw/3.2.1/include/GLFW ${BREW_DIR}/glew/2.0.0/include ${BREW_DIR}/glm/0.9.8.3/include/glm)
-    link_libraries(${GLEW} ${glfw3} ${OPEN_gl_LIBRARY} ${FRAMEWORKS})
+    include_directories(${BREW_DIR}/glfw/3.2.1/include/GLFW ${BREW_DIR}/glew/2.0.0/include ${BREW_DIR}/glm/0.9.8.3/include/glm ${CPR_INCLUDE_DIRS})
+    link_libraries(${GLEW} ${glfw3} ${OPEN_gl_LIBRARY} ${FRAMEWORKS} ${CPR_LIBRARIES})
 endif()
 
 set(CMAKE_CXX_STANDARD 11)

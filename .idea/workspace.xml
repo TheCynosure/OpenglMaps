@@ -6,7 +6,193 @@
   </component>
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" assignedExecutableTargets="true" buildAllGenerated="true">
     <generated>
+      <config projectName="OpenGLLearning" targetName="gtest" />
+      <config projectName="OpenGLLearning" targetName="lib549" />
+      <config projectName="OpenGLLearning" targetName="get_tests" />
+      <config projectName="OpenGLLearning" targetName="lib545" />
+      <config projectName="OpenGLLearning" targetName="raw_body_tests" />
       <config projectName="OpenGLLearning" targetName="OpenGLLearning" />
+      <config projectName="OpenGLLearning" targetName="lib1525" />
+      <config projectName="OpenGLLearning" targetName="lib547" />
+      <config projectName="OpenGLLearning" targetName="lib548" />
+      <config projectName="OpenGLLearning" targetName="proxy_tests" />
+      <config projectName="OpenGLLearning" targetName="lib541" />
+      <config projectName="OpenGLLearning" targetName="lib542" />
+      <config projectName="OpenGLLearning" targetName="lib543" />
+      <config projectName="OpenGLLearning" targetName="lib1520" />
+      <config projectName="OpenGLLearning" targetName="lib544" />
+      <config projectName="OpenGLLearning" targetName="sws" />
+      <config projectName="OpenGLLearning" targetName="gtest_main" />
+      <config projectName="OpenGLLearning" targetName="rtspd" />
+      <config projectName="OpenGLLearning" targetName="unit1300" />
+      <config projectName="OpenGLLearning" targetName="unit1302" />
+      <config projectName="OpenGLLearning" targetName="NightlyMemoryCheck" />
+      <config projectName="OpenGLLearning" targetName="unit1301" />
+      <config projectName="OpenGLLearning" targetName="ContinuousStart" />
+      <config projectName="OpenGLLearning" targetName="unit1304" />
+      <config projectName="OpenGLLearning" targetName="cpr" />
+      <config projectName="OpenGLLearning" targetName="lib1515" />
+      <config projectName="OpenGLLearning" targetName="unit1303" />
+      <config projectName="OpenGLLearning" targetName="lib1517" />
+      <config projectName="OpenGLLearning" targetName="unit1305" />
+      <config projectName="OpenGLLearning" targetName="ContinuousCoverage" />
+      <config projectName="OpenGLLearning" targetName="NightlyTest" />
+      <config projectName="OpenGLLearning" targetName="lib539" />
+      <config projectName="OpenGLLearning" targetName="lib1512" />
+      <config projectName="OpenGLLearning" targetName="lib1511" />
+      <config projectName="OpenGLLearning" targetName="ContinuousUpdate" />
+      <config projectName="OpenGLLearning" targetName="lib1514" />
+      <config projectName="OpenGLLearning" targetName="lib536" />
+      <config projectName="OpenGLLearning" targetName="lib1513" />
+      <config projectName="OpenGLLearning" targetName="lib537" />
+      <config projectName="OpenGLLearning" targetName="lib530" />
+      <config projectName="OpenGLLearning" targetName="NightlyMemCheck" />
+      <config projectName="OpenGLLearning" targetName="lib1510" />
+      <config projectName="OpenGLLearning" targetName="lib532" />
+      <config projectName="OpenGLLearning" targetName="options_tests" />
+      <config projectName="OpenGLLearning" targetName="lib533" />
+      <config projectName="OpenGLLearning" targetName="lib1509" />
+      <config projectName="OpenGLLearning" targetName="ContinuousBuild" />
+      <config projectName="OpenGLLearning" targetName="lib1508" />
+      <config projectName="OpenGLLearning" targetName="lib540" />
+      <config projectName="OpenGLLearning" targetName="lib1505" />
+      <config projectName="OpenGLLearning" targetName="lib1504" />
+      <config projectName="OpenGLLearning" targetName="lib1900" />
+      <config projectName="OpenGLLearning" targetName="lib1507" />
+      <config projectName="OpenGLLearning" targetName="callback_tests" />
+      <config projectName="OpenGLLearning" targetName="NightlyConfigure" />
+      <config projectName="OpenGLLearning" targetName="lib1506" />
+      <config projectName="OpenGLLearning" targetName="lib2033" />
+      <config projectName="OpenGLLearning" targetName="Experimental" />
+      <config projectName="OpenGLLearning" targetName="chkhostname" />
+      <config projectName="OpenGLLearning" targetName="ExperimentalMemCheck" />
+      <config projectName="OpenGLLearning" targetName="Nightly" />
+      <config projectName="OpenGLLearning" targetName="lib527" />
+      <config projectName="OpenGLLearning" targetName="lib529" />
+      <config projectName="OpenGLLearning" targetName="NightlyUpdate" />
+      <config projectName="OpenGLLearning" targetName="lib1501" />
+      <config projectName="OpenGLLearning" targetName="lib523" />
+      <config projectName="OpenGLLearning" targetName="lib1500" />
+      <config projectName="OpenGLLearning" targetName="lib524" />
+      <config projectName="OpenGLLearning" targetName="lib1503" />
+      <config projectName="OpenGLLearning" targetName="lib525" />
+      <config projectName="OpenGLLearning" targetName="libntlmconnect" />
+      <config projectName="OpenGLLearning" targetName="lib1502" />
+      <config projectName="OpenGLLearning" targetName="lib526" />
+      <config projectName="OpenGLLearning" targetName="lib520" />
+      <config projectName="OpenGLLearning" targetName="lib521" />
+      <config projectName="OpenGLLearning" targetName="Continuous" />
+      <config projectName="OpenGLLearning" targetName="unit1601" />
+      <config projectName="OpenGLLearning" targetName="mongoose" />
+      <config projectName="OpenGLLearning" targetName="unit1600" />
+      <config projectName="OpenGLLearning" targetName="unit1603" />
+      <config projectName="OpenGLLearning" targetName="ContinuousConfigure" />
+      <config projectName="OpenGLLearning" targetName="getpart" />
+      <config projectName="OpenGLLearning" targetName="lib516" />
+      <config projectName="OpenGLLearning" targetName="head_tests" />
+      <config projectName="OpenGLLearning" targetName="lib517" />
+      <config projectName="OpenGLLearning" targetName="lib518" />
+      <config projectName="OpenGLLearning" targetName="lib519" />
+      <config projectName="OpenGLLearning" targetName="lib512" />
+      <config projectName="OpenGLLearning" targetName="unit1308" />
+      <config projectName="OpenGLLearning" targetName="lib513" />
+      <config projectName="OpenGLLearning" targetName="unit1307" />
+      <config projectName="OpenGLLearning" targetName="lib514" />
+      <config projectName="OpenGLLearning" targetName="lib515" />
+      <config projectName="OpenGLLearning" targetName="unit1309" />
+      <config projectName="OpenGLLearning" targetName="ContinuousMemCheck" />
+      <config projectName="OpenGLLearning" targetName="lib597" />
+      <config projectName="OpenGLLearning" targetName="lib510" />
+      <config projectName="OpenGLLearning" targetName="lib598" />
+      <config projectName="OpenGLLearning" targetName="lib511" />
+      <config projectName="OpenGLLearning" targetName="lib599" />
+      <config projectName="OpenGLLearning" targetName="unit1398" />
+      <config projectName="OpenGLLearning" targetName="NightlySubmit" />
+      <config projectName="OpenGLLearning" targetName="delete_tests" />
+      <config projectName="OpenGLLearning" targetName="post_tests" />
+      <config projectName="OpenGLLearning" targetName="unit1395" />
+      <config projectName="OpenGLLearning" targetName="unit1397" />
+      <config projectName="OpenGLLearning" targetName="unit1396" />
+      <config projectName="OpenGLLearning" targetName="lib509" />
+      <config projectName="OpenGLLearning" targetName="put_tests" />
+      <config projectName="OpenGLLearning" targetName="lib505" />
+      <config projectName="OpenGLLearning" targetName="lib506" />
+      <config projectName="OpenGLLearning" targetName="lib507" />
+      <config projectName="OpenGLLearning" targetName="lib508" />
+      <config projectName="OpenGLLearning" targetName="lib501" />
+      <config projectName="OpenGLLearning" targetName="lib502" />
+      <config projectName="OpenGLLearning" targetName="lib503" />
+      <config projectName="OpenGLLearning" targetName="hostname" />
+      <config projectName="OpenGLLearning" targetName="lib504" />
+      <config projectName="OpenGLLearning" targetName="lib585" />
+      <config projectName="OpenGLLearning" targetName="lib586" />
+      <config projectName="OpenGLLearning" targetName="lib587" />
+      <config projectName="OpenGLLearning" targetName="libauthretry" />
+      <config projectName="OpenGLLearning" targetName="lib500" />
+      <config projectName="OpenGLLearning" targetName="ContinuousTest" />
+      <config projectName="OpenGLLearning" targetName="NightlyBuild" />
+      <config projectName="OpenGLLearning" targetName="alternating_tests" />
+      <config projectName="OpenGLLearning" targetName="async_tests" />
+      <config projectName="OpenGLLearning" targetName="lib590" />
+      <config projectName="OpenGLLearning" targetName="lib591" />
+      <config projectName="OpenGLLearning" targetName="NightlyCoverage" />
+      <config projectName="OpenGLLearning" targetName="patch_tests" />
+      <config projectName="OpenGLLearning" targetName="ContinuousSubmit" />
+      <config projectName="OpenGLLearning" targetName="lib578" />
+      <config projectName="OpenGLLearning" targetName="lib579" />
+      <config projectName="OpenGLLearning" targetName="lib574" />
+      <config projectName="OpenGLLearning" targetName="lib575" />
+      <config projectName="OpenGLLearning" targetName="NightlyStart" />
+      <config projectName="OpenGLLearning" targetName="lib576" />
+      <config projectName="OpenGLLearning" targetName="lib582" />
+      <config projectName="OpenGLLearning" targetName="lib583" />
+      <config projectName="OpenGLLearning" targetName="ExperimentalCoverage" />
+      <config projectName="OpenGLLearning" targetName="ExperimentalTest" />
+      <config projectName="OpenGLLearning" targetName="unit1330" />
+      <config projectName="OpenGLLearning" targetName="fake_ntlm" />
+      <config projectName="OpenGLLearning" targetName="lib567" />
+      <config projectName="OpenGLLearning" targetName="sockfilt" />
+      <config projectName="OpenGLLearning" targetName="libcurl" />
+      <config projectName="OpenGLLearning" targetName="lib568" />
+      <config projectName="OpenGLLearning" targetName="lib569" />
+      <config projectName="OpenGLLearning" targetName="ExperimentalUpdate" />
+      <config projectName="OpenGLLearning" targetName="lib564" />
+      <config projectName="OpenGLLearning" targetName="lib565" />
+      <config projectName="OpenGLLearning" targetName="lib566" />
+      <config projectName="OpenGLLearning" targetName="lib570" />
+      <config projectName="OpenGLLearning" targetName="lib571" />
+      <config projectName="OpenGLLearning" targetName="lib572" />
+      <config projectName="OpenGLLearning" targetName="lib573" />
+      <config projectName="OpenGLLearning" targetName="error_tests" />
+      <config projectName="OpenGLLearning" targetName="util_tests" />
+      <config projectName="OpenGLLearning" targetName="session_tests" />
+      <config projectName="OpenGLLearning" targetName="lib1534" />
+      <config projectName="OpenGLLearning" targetName="lib556" />
+      <config projectName="OpenGLLearning" targetName="lib1533" />
+      <config projectName="OpenGLLearning" targetName="lib557" />
+      <config projectName="OpenGLLearning" targetName="ExperimentalBuild" />
+      <config projectName="OpenGLLearning" targetName="lib1536" />
+      <config projectName="OpenGLLearning" targetName="lib558" />
+      <config projectName="OpenGLLearning" targetName="lib1535" />
+      <config projectName="OpenGLLearning" targetName="resolve" />
+      <config projectName="OpenGLLearning" targetName="lib1530" />
+      <config projectName="OpenGLLearning" targetName="lib552" />
+      <config projectName="OpenGLLearning" targetName="lib553" />
+      <config projectName="OpenGLLearning" targetName="lib1532" />
+      <config projectName="OpenGLLearning" targetName="lib554" />
+      <config projectName="OpenGLLearning" targetName="ExperimentalStart" />
+      <config projectName="OpenGLLearning" targetName="lib1531" />
+      <config projectName="OpenGLLearning" targetName="lib555" />
+      <config projectName="OpenGLLearning" targetName="show" />
+      <config projectName="OpenGLLearning" targetName="lib560" />
+      <config projectName="OpenGLLearning" targetName="lib562" />
+      <config projectName="OpenGLLearning" targetName="lib1527" />
+      <config projectName="OpenGLLearning" targetName="lib1526" />
+      <config projectName="OpenGLLearning" targetName="lib1529" />
+      <config projectName="OpenGLLearning" targetName="ExperimentalSubmit" />
+      <config projectName="OpenGLLearning" targetName="lib1528" />
+      <config projectName="OpenGLLearning" targetName="tftpd" />
+      <config projectName="OpenGLLearning" targetName="ExperimentalConfigure" />
     </generated>
   </component>
   <component name="CMakeSettings" AUTO_RELOAD="false" GENERATION_PASS_SYSTEM_ENVIRONMENT="true">
@@ -35,12 +221,32 @@
       <file leaf-file-name="main.cpp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="23">
+            <state relative-caret-position="167">
               <caret line="123" column="6" selection-start-line="123" selection-start-column="6" selection-end-line="123" selection-end-column="6" />
               <folding>
                 <element signature="e#0#20#0" expanded="true" />
                 <element signature="e#252#347#0" expanded="false" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CMakeLists.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="128">
+              <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CMakeLists.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cpr/opt/CMakeLists.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="56">
+              <caret line="39" column="0" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -97,16 +303,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ObjModel.h" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Rendering/ObjModel.h">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="320">
-              <caret line="22" column="25" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="InputController.cpp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Movement/InputController.cpp">
           <provider selected="true" editor-type-id="text-editor">
@@ -119,23 +315,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Camera.h" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Movement/Camera.h">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="20" column="102" selection-start-line="20" selection-start-column="102" selection-end-line="20" selection-end-column="102" />
-              <folding>
-                <element signature="e#104#127#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="FreeMovement.cpp" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Movement/FreeMovement.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="58">
-              <caret line="44" column="0" selection-start-line="44" selection-start-column="0" selection-end-line="70" selection-end-column="35" />
+            <state relative-caret-position="459">
+              <caret line="66" column="66" selection-start-line="66" selection-start-column="66" selection-end-line="66" selection-end-column="66" />
               <folding>
                 <element signature="e#38#77#0" expanded="true" />
               </folding>
@@ -158,7 +342,6 @@
         <option value="$PROJECT_DIR$/Debug/models/chicken.obj" />
         <option value="$PROJECT_DIR$/Debug/shaders/fragShader.fs" />
         <option value="$PROJECT_DIR$/README.Linux" />
-        <option value="$PROJECT_DIR$/CMakeLists.txt" />
         <option value="$PROJECT_DIR$/README.Mac" />
         <option value="$PROJECT_DIR$/Debug/camera.h" />
         <option value="$PROJECT_DIR$/Debug/camera.cpp" />
@@ -180,6 +363,7 @@
         <option value="$PROJECT_DIR$/Debug/shaders/simpleVertexShader.vs" />
         <option value="$PROJECT_DIR$/Debug/shaders/simplefragShader.fs" />
         <option value="$PROJECT_DIR$/Movement/InputController.cpp" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
         <option value="$PROJECT_DIR$/Movement/FreeMovement.cpp" />
       </list>
     </option>
@@ -192,9 +376,8 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="1920" />
-    <option name="y" value="-1" />
-    <option name="width" value="1920" />
-    <option name="height" value="1053" />
+    <option name="width" value="959" />
+    <option name="height" value="1052" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -249,53 +432,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Rendering" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="OpenGLLearning" />
-              <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="OpenGLLearning" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="Movement" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="OpenGLLearning" />
-              <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="OpenGLLearning" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Debug" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="OpenGLLearning" />
-              <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="OpenGLLearning" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Debug" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="shaders" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -498,9 +635,939 @@
       <envs />
       <method />
     </configuration>
-    <list size="2">
+    <configuration default="false" name="cpr" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="cpr" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Continuous" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="Continuous" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="ContinuousBuild" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="ContinuousBuild" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="ContinuousBuild">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="ContinuousConfigure" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="ContinuousConfigure" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="ContinuousConfigure">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="ContinuousCoverage" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="ContinuousCoverage" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="ContinuousCoverage">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="ContinuousMemCheck" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="ContinuousMemCheck" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="ContinuousMemCheck">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="ContinuousStart" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="ContinuousStart" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="ContinuousStart">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="ContinuousSubmit" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="ContinuousSubmit" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="ContinuousSubmit">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="ContinuousTest" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="ContinuousTest" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="ContinuousTest">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="ContinuousUpdate" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="ContinuousUpdate" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="ContinuousUpdate">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Experimental" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="Experimental" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="ExperimentalBuild" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="ExperimentalBuild" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="ExperimentalBuild">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="ExperimentalConfigure" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="ExperimentalConfigure" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="ExperimentalConfigure">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="ExperimentalCoverage" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="ExperimentalCoverage" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="ExperimentalCoverage">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="ExperimentalMemCheck" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="ExperimentalMemCheck" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="ExperimentalMemCheck">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="ExperimentalStart" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="ExperimentalStart" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="ExperimentalStart">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="ExperimentalSubmit" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="ExperimentalSubmit" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="ExperimentalSubmit">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="ExperimentalTest" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="ExperimentalTest" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="ExperimentalTest">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="ExperimentalUpdate" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="ExperimentalUpdate" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="ExperimentalUpdate">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Nightly" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="Nightly" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="NightlyBuild" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="NightlyBuild" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="NightlyBuild">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="NightlyConfigure" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="NightlyConfigure" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="NightlyConfigure">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="NightlyCoverage" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="NightlyCoverage" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="NightlyCoverage">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="NightlyMemCheck" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="NightlyMemCheck" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="NightlyMemCheck">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="NightlyMemoryCheck" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="NightlyMemoryCheck" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="NightlyMemoryCheck">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="NightlyStart" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="NightlyStart" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="NightlyStart">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="NightlySubmit" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="NightlySubmit" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="NightlySubmit">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="NightlyTest" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="NightlyTest" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="NightlyTest">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="NightlyUpdate" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="NightlyUpdate" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="NightlyUpdate">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="libcurl" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="libcurl" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="show" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="show" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="chkhostname" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="chkhostname" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="chkhostname">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="hostname" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="hostname" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lib1500" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="lib1500" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="lib1500">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lib1501" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="lib1501" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="lib1501">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lib1502" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="lib1502" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="lib1502">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lib1503" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="lib1503" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="lib1503">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lib1504" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="lib1504" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="lib1504">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lib1505" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="lib1505" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="lib1505">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lib1506" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="lib1506" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="lib1506">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lib1507" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="lib1507" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="lib1507">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lib1508" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="lib1508" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="lib1508">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lib1509" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="lib1509" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="lib1509">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lib1510" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="lib1510" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="lib1510">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lib1511" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="lib1511" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="lib1511">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lib1512" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="lib1512" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="lib1512">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lib1513" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="lib1513" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="lib1513">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lib1514" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="lib1514" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="lib1514">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lib1515" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="lib1515" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="lib1515">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lib1517" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="lib1517" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="lib1517">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lib1520" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="lib1520" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="lib1520">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lib1525" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="lib1525" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="lib1525">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lib1526" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="lib1526" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="lib1526">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lib1527" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="lib1527" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="lib1527">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lib1528" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="lib1528" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="lib1528">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lib1529" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="lib1529" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="lib1529">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lib1530" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="lib1530" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="lib1530">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lib1531" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="lib1531" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="lib1531">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lib1532" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="lib1532" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="lib1532">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lib1533" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="lib1533" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="lib1533">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lib1534" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="lib1534" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="lib1534">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lib1535" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="lib1535" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="lib1535">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lib1536" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="lib1536" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="lib1536">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lib1900" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="lib1900" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="lib1900">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lib2033" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="lib2033" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="lib2033">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lib500" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="lib500" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="lib500">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lib501" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="lib501" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="lib501">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lib502" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="lib502" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="lib502">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lib503" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="lib503" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="lib503">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lib504" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="lib504" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="lib504">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lib505" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="lib505" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="lib505">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lib506" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="lib506" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="lib506">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lib507" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="lib507" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="lib507">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lib508" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="lib508" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="lib508">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lib509" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="lib509" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="lib509">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lib510" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="lib510" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="lib510">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lib511" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="lib511" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="lib511">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lib512" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="lib512" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="lib512">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lib513" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="lib513" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="lib513">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lib514" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="lib514" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="lib514">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lib515" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="lib515" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="lib515">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lib516" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="lib516" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="lib516">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lib517" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="lib517" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="lib517">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lib518" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="lib518" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="lib518">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lib519" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="lib519" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="lib519">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lib520" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="lib520" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="lib520">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lib521" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="lib521" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="lib521">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lib523" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="lib523" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="lib523">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lib524" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="lib524" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="lib524">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lib525" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="lib525" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="lib525">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lib526" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="lib526" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="lib526">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lib527" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="lib527" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="lib527">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lib529" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="lib529" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="lib529">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lib530" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="lib530" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="lib530">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lib532" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="lib532" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="lib532">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lib533" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="lib533" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="lib533">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lib536" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="lib536" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="lib536">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lib537" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="lib537" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="lib537">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lib539" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="lib539" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="lib539">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lib540" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="lib540" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="lib540">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lib541" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="lib541" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="lib541">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lib542" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="lib542" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="lib542">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lib543" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="lib543" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="lib543">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lib544" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="lib544" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="lib544">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lib545" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="lib545" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="lib545">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lib547" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="lib547" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="lib547">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lib548" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="lib548" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="lib548">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lib549" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="lib549" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="lib549">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lib552" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="lib552" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="lib552">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lib553" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="lib553" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="lib553">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lib554" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="lib554" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="lib554">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lib555" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="lib555" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="lib555">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lib556" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="lib556" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="lib556">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lib557" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="lib557" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="lib557">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lib558" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="lib558" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="lib558">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lib560" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="lib560" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="lib560">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lib562" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="lib562" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="lib562">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lib564" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="lib564" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="lib564">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lib565" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="lib565" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="lib565">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lib566" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="lib566" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="lib566">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lib567" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="lib567" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="lib567">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lib568" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="lib568" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="lib568">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lib569" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="lib569" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="lib569">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lib570" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="lib570" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="lib570">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lib571" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="lib571" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="lib571">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lib572" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="lib572" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="lib572">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lib573" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="lib573" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="lib573">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lib574" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="lib574" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="lib574">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lib575" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="lib575" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="lib575">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lib576" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="lib576" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="lib576">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lib578" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="lib578" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="lib578">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lib579" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="lib579" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="lib579">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lib582" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="lib582" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="lib582">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lib583" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="lib583" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="lib583">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lib585" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="lib585" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="lib585">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lib586" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="lib586" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="lib586">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lib587" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="lib587" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="lib587">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lib590" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="lib590" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="lib590">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lib591" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="lib591" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="lib591">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lib597" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="lib597" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="lib597">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lib598" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="lib598" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="lib598">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lib599" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="lib599" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="lib599">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="libauthretry" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="libauthretry" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="libauthretry">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="libntlmconnect" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="libntlmconnect" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="libntlmconnect">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="fake_ntlm" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="fake_ntlm" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="fake_ntlm">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="getpart" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="getpart" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="getpart">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="resolve" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="resolve" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="resolve">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="rtspd" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="rtspd" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="rtspd">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="sockfilt" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="sockfilt" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="sockfilt">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="sws" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="sws" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="sws">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="tftpd" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="tftpd" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="tftpd">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="unit1300" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="unit1300" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="unit1300">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="unit1301" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="unit1301" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="unit1301">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="unit1302" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="unit1302" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="unit1302">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="unit1303" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="unit1303" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="unit1303">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="unit1304" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="unit1304" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="unit1304">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="unit1305" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="unit1305" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="unit1305">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="unit1307" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="unit1307" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="unit1307">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="unit1308" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="unit1308" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="unit1308">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="unit1309" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="unit1309" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="unit1309">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="unit1330" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="unit1330" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="unit1330">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="unit1395" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="unit1395" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="unit1395">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="unit1396" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="unit1396" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="unit1396">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="unit1397" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="unit1397" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="unit1397">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="unit1398" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="unit1398" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="unit1398">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="unit1600" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="unit1600" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="unit1600">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="unit1601" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="unit1601" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="unit1601">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="unit1603" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="unit1603" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="unit1603">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="gtest" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="gtest" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="gtest_main" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="gtest_main" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="mongoose" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="mongoose" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="alternating_tests" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="alternating_tests" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="alternating_tests" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="async_tests" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="async_tests" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="async_tests" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="callback_tests" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="callback_tests" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="callback_tests" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="delete_tests" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="delete_tests" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="delete_tests" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="error_tests" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="error_tests" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="error_tests" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="get_tests" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="get_tests" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="get_tests" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="head_tests" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="head_tests" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="head_tests" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="options_tests" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="options_tests" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="options_tests" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="patch_tests" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="patch_tests" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="patch_tests" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="post_tests" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="post_tests" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="post_tests" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="proxy_tests" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="proxy_tests" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="proxy_tests" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="put_tests" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="put_tests" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="put_tests" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="raw_body_tests" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="raw_body_tests" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="raw_body_tests" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="session_tests" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="session_tests" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="session_tests" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="util_tests" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGLLearning" TARGET_NAME="util_tests" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGLLearning" RUN_TARGET_NAME="util_tests" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <list size="188">
       <item index="0" class="java.lang.String" itemvalue="Application.OpenGLLearning" />
       <item index="1" class="java.lang.String" itemvalue="Application.Build All" />
+      <item index="2" class="java.lang.String" itemvalue="Application.cpr" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Continuous" />
+      <item index="4" class="java.lang.String" itemvalue="Application.ContinuousBuild" />
+      <item index="5" class="java.lang.String" itemvalue="Application.ContinuousConfigure" />
+      <item index="6" class="java.lang.String" itemvalue="Application.ContinuousCoverage" />
+      <item index="7" class="java.lang.String" itemvalue="Application.ContinuousMemCheck" />
+      <item index="8" class="java.lang.String" itemvalue="Application.ContinuousStart" />
+      <item index="9" class="java.lang.String" itemvalue="Application.ContinuousSubmit" />
+      <item index="10" class="java.lang.String" itemvalue="Application.ContinuousTest" />
+      <item index="11" class="java.lang.String" itemvalue="Application.ContinuousUpdate" />
+      <item index="12" class="java.lang.String" itemvalue="Application.Experimental" />
+      <item index="13" class="java.lang.String" itemvalue="Application.ExperimentalBuild" />
+      <item index="14" class="java.lang.String" itemvalue="Application.ExperimentalConfigure" />
+      <item index="15" class="java.lang.String" itemvalue="Application.ExperimentalCoverage" />
+      <item index="16" class="java.lang.String" itemvalue="Application.ExperimentalMemCheck" />
+      <item index="17" class="java.lang.String" itemvalue="Application.ExperimentalStart" />
+      <item index="18" class="java.lang.String" itemvalue="Application.ExperimentalSubmit" />
+      <item index="19" class="java.lang.String" itemvalue="Application.ExperimentalTest" />
+      <item index="20" class="java.lang.String" itemvalue="Application.ExperimentalUpdate" />
+      <item index="21" class="java.lang.String" itemvalue="Application.Nightly" />
+      <item index="22" class="java.lang.String" itemvalue="Application.NightlyBuild" />
+      <item index="23" class="java.lang.String" itemvalue="Application.NightlyConfigure" />
+      <item index="24" class="java.lang.String" itemvalue="Application.NightlyCoverage" />
+      <item index="25" class="java.lang.String" itemvalue="Application.NightlyMemCheck" />
+      <item index="26" class="java.lang.String" itemvalue="Application.NightlyMemoryCheck" />
+      <item index="27" class="java.lang.String" itemvalue="Application.NightlyStart" />
+      <item index="28" class="java.lang.String" itemvalue="Application.NightlySubmit" />
+      <item index="29" class="java.lang.String" itemvalue="Application.NightlyTest" />
+      <item index="30" class="java.lang.String" itemvalue="Application.NightlyUpdate" />
+      <item index="31" class="java.lang.String" itemvalue="Application.libcurl" />
+      <item index="32" class="java.lang.String" itemvalue="Application.show" />
+      <item index="33" class="java.lang.String" itemvalue="Application.chkhostname" />
+      <item index="34" class="java.lang.String" itemvalue="Application.hostname" />
+      <item index="35" class="java.lang.String" itemvalue="Application.lib1500" />
+      <item index="36" class="java.lang.String" itemvalue="Application.lib1501" />
+      <item index="37" class="java.lang.String" itemvalue="Application.lib1502" />
+      <item index="38" class="java.lang.String" itemvalue="Application.lib1503" />
+      <item index="39" class="java.lang.String" itemvalue="Application.lib1504" />
+      <item index="40" class="java.lang.String" itemvalue="Application.lib1505" />
+      <item index="41" class="java.lang.String" itemvalue="Application.lib1506" />
+      <item index="42" class="java.lang.String" itemvalue="Application.lib1507" />
+      <item index="43" class="java.lang.String" itemvalue="Application.lib1508" />
+      <item index="44" class="java.lang.String" itemvalue="Application.lib1509" />
+      <item index="45" class="java.lang.String" itemvalue="Application.lib1510" />
+      <item index="46" class="java.lang.String" itemvalue="Application.lib1511" />
+      <item index="47" class="java.lang.String" itemvalue="Application.lib1512" />
+      <item index="48" class="java.lang.String" itemvalue="Application.lib1513" />
+      <item index="49" class="java.lang.String" itemvalue="Application.lib1514" />
+      <item index="50" class="java.lang.String" itemvalue="Application.lib1515" />
+      <item index="51" class="java.lang.String" itemvalue="Application.lib1517" />
+      <item index="52" class="java.lang.String" itemvalue="Application.lib1520" />
+      <item index="53" class="java.lang.String" itemvalue="Application.lib1525" />
+      <item index="54" class="java.lang.String" itemvalue="Application.lib1526" />
+      <item index="55" class="java.lang.String" itemvalue="Application.lib1527" />
+      <item index="56" class="java.lang.String" itemvalue="Application.lib1528" />
+      <item index="57" class="java.lang.String" itemvalue="Application.lib1529" />
+      <item index="58" class="java.lang.String" itemvalue="Application.lib1530" />
+      <item index="59" class="java.lang.String" itemvalue="Application.lib1531" />
+      <item index="60" class="java.lang.String" itemvalue="Application.lib1532" />
+      <item index="61" class="java.lang.String" itemvalue="Application.lib1533" />
+      <item index="62" class="java.lang.String" itemvalue="Application.lib1534" />
+      <item index="63" class="java.lang.String" itemvalue="Application.lib1535" />
+      <item index="64" class="java.lang.String" itemvalue="Application.lib1536" />
+      <item index="65" class="java.lang.String" itemvalue="Application.lib1900" />
+      <item index="66" class="java.lang.String" itemvalue="Application.lib2033" />
+      <item index="67" class="java.lang.String" itemvalue="Application.lib500" />
+      <item index="68" class="java.lang.String" itemvalue="Application.lib501" />
+      <item index="69" class="java.lang.String" itemvalue="Application.lib502" />
+      <item index="70" class="java.lang.String" itemvalue="Application.lib503" />
+      <item index="71" class="java.lang.String" itemvalue="Application.lib504" />
+      <item index="72" class="java.lang.String" itemvalue="Application.lib505" />
+      <item index="73" class="java.lang.String" itemvalue="Application.lib506" />
+      <item index="74" class="java.lang.String" itemvalue="Application.lib507" />
+      <item index="75" class="java.lang.String" itemvalue="Application.lib508" />
+      <item index="76" class="java.lang.String" itemvalue="Application.lib509" />
+      <item index="77" class="java.lang.String" itemvalue="Application.lib510" />
+      <item index="78" class="java.lang.String" itemvalue="Application.lib511" />
+      <item index="79" class="java.lang.String" itemvalue="Application.lib512" />
+      <item index="80" class="java.lang.String" itemvalue="Application.lib513" />
+      <item index="81" class="java.lang.String" itemvalue="Application.lib514" />
+      <item index="82" class="java.lang.String" itemvalue="Application.lib515" />
+      <item index="83" class="java.lang.String" itemvalue="Application.lib516" />
+      <item index="84" class="java.lang.String" itemvalue="Application.lib517" />
+      <item index="85" class="java.lang.String" itemvalue="Application.lib518" />
+      <item index="86" class="java.lang.String" itemvalue="Application.lib519" />
+      <item index="87" class="java.lang.String" itemvalue="Application.lib520" />
+      <item index="88" class="java.lang.String" itemvalue="Application.lib521" />
+      <item index="89" class="java.lang.String" itemvalue="Application.lib523" />
+      <item index="90" class="java.lang.String" itemvalue="Application.lib524" />
+      <item index="91" class="java.lang.String" itemvalue="Application.lib525" />
+      <item index="92" class="java.lang.String" itemvalue="Application.lib526" />
+      <item index="93" class="java.lang.String" itemvalue="Application.lib527" />
+      <item index="94" class="java.lang.String" itemvalue="Application.lib529" />
+      <item index="95" class="java.lang.String" itemvalue="Application.lib530" />
+      <item index="96" class="java.lang.String" itemvalue="Application.lib532" />
+      <item index="97" class="java.lang.String" itemvalue="Application.lib533" />
+      <item index="98" class="java.lang.String" itemvalue="Application.lib536" />
+      <item index="99" class="java.lang.String" itemvalue="Application.lib537" />
+      <item index="100" class="java.lang.String" itemvalue="Application.lib539" />
+      <item index="101" class="java.lang.String" itemvalue="Application.lib540" />
+      <item index="102" class="java.lang.String" itemvalue="Application.lib541" />
+      <item index="103" class="java.lang.String" itemvalue="Application.lib542" />
+      <item index="104" class="java.lang.String" itemvalue="Application.lib543" />
+      <item index="105" class="java.lang.String" itemvalue="Application.lib544" />
+      <item index="106" class="java.lang.String" itemvalue="Application.lib545" />
+      <item index="107" class="java.lang.String" itemvalue="Application.lib547" />
+      <item index="108" class="java.lang.String" itemvalue="Application.lib548" />
+      <item index="109" class="java.lang.String" itemvalue="Application.lib549" />
+      <item index="110" class="java.lang.String" itemvalue="Application.lib552" />
+      <item index="111" class="java.lang.String" itemvalue="Application.lib553" />
+      <item index="112" class="java.lang.String" itemvalue="Application.lib554" />
+      <item index="113" class="java.lang.String" itemvalue="Application.lib555" />
+      <item index="114" class="java.lang.String" itemvalue="Application.lib556" />
+      <item index="115" class="java.lang.String" itemvalue="Application.lib557" />
+      <item index="116" class="java.lang.String" itemvalue="Application.lib558" />
+      <item index="117" class="java.lang.String" itemvalue="Application.lib560" />
+      <item index="118" class="java.lang.String" itemvalue="Application.lib562" />
+      <item index="119" class="java.lang.String" itemvalue="Application.lib564" />
+      <item index="120" class="java.lang.String" itemvalue="Application.lib565" />
+      <item index="121" class="java.lang.String" itemvalue="Application.lib566" />
+      <item index="122" class="java.lang.String" itemvalue="Application.lib567" />
+      <item index="123" class="java.lang.String" itemvalue="Application.lib568" />
+      <item index="124" class="java.lang.String" itemvalue="Application.lib569" />
+      <item index="125" class="java.lang.String" itemvalue="Application.lib570" />
+      <item index="126" class="java.lang.String" itemvalue="Application.lib571" />
+      <item index="127" class="java.lang.String" itemvalue="Application.lib572" />
+      <item index="128" class="java.lang.String" itemvalue="Application.lib573" />
+      <item index="129" class="java.lang.String" itemvalue="Application.lib574" />
+      <item index="130" class="java.lang.String" itemvalue="Application.lib575" />
+      <item index="131" class="java.lang.String" itemvalue="Application.lib576" />
+      <item index="132" class="java.lang.String" itemvalue="Application.lib578" />
+      <item index="133" class="java.lang.String" itemvalue="Application.lib579" />
+      <item index="134" class="java.lang.String" itemvalue="Application.lib582" />
+      <item index="135" class="java.lang.String" itemvalue="Application.lib583" />
+      <item index="136" class="java.lang.String" itemvalue="Application.lib585" />
+      <item index="137" class="java.lang.String" itemvalue="Application.lib586" />
+      <item index="138" class="java.lang.String" itemvalue="Application.lib587" />
+      <item index="139" class="java.lang.String" itemvalue="Application.lib590" />
+      <item index="140" class="java.lang.String" itemvalue="Application.lib591" />
+      <item index="141" class="java.lang.String" itemvalue="Application.lib597" />
+      <item index="142" class="java.lang.String" itemvalue="Application.lib598" />
+      <item index="143" class="java.lang.String" itemvalue="Application.lib599" />
+      <item index="144" class="java.lang.String" itemvalue="Application.libauthretry" />
+      <item index="145" class="java.lang.String" itemvalue="Application.libntlmconnect" />
+      <item index="146" class="java.lang.String" itemvalue="Application.fake_ntlm" />
+      <item index="147" class="java.lang.String" itemvalue="Application.getpart" />
+      <item index="148" class="java.lang.String" itemvalue="Application.resolve" />
+      <item index="149" class="java.lang.String" itemvalue="Application.rtspd" />
+      <item index="150" class="java.lang.String" itemvalue="Application.sockfilt" />
+      <item index="151" class="java.lang.String" itemvalue="Application.sws" />
+      <item index="152" class="java.lang.String" itemvalue="Application.tftpd" />
+      <item index="153" class="java.lang.String" itemvalue="Application.unit1300" />
+      <item index="154" class="java.lang.String" itemvalue="Application.unit1301" />
+      <item index="155" class="java.lang.String" itemvalue="Application.unit1302" />
+      <item index="156" class="java.lang.String" itemvalue="Application.unit1303" />
+      <item index="157" class="java.lang.String" itemvalue="Application.unit1304" />
+      <item index="158" class="java.lang.String" itemvalue="Application.unit1305" />
+      <item index="159" class="java.lang.String" itemvalue="Application.unit1307" />
+      <item index="160" class="java.lang.String" itemvalue="Application.unit1308" />
+      <item index="161" class="java.lang.String" itemvalue="Application.unit1309" />
+      <item index="162" class="java.lang.String" itemvalue="Application.unit1330" />
+      <item index="163" class="java.lang.String" itemvalue="Application.unit1395" />
+      <item index="164" class="java.lang.String" itemvalue="Application.unit1396" />
+      <item index="165" class="java.lang.String" itemvalue="Application.unit1397" />
+      <item index="166" class="java.lang.String" itemvalue="Application.unit1398" />
+      <item index="167" class="java.lang.String" itemvalue="Application.unit1600" />
+      <item index="168" class="java.lang.String" itemvalue="Application.unit1601" />
+      <item index="169" class="java.lang.String" itemvalue="Application.unit1603" />
+      <item index="170" class="java.lang.String" itemvalue="Application.gtest" />
+      <item index="171" class="java.lang.String" itemvalue="Application.gtest_main" />
+      <item index="172" class="java.lang.String" itemvalue="Application.mongoose" />
+      <item index="173" class="java.lang.String" itemvalue="Google Test.alternating_tests" />
+      <item index="174" class="java.lang.String" itemvalue="Google Test.async_tests" />
+      <item index="175" class="java.lang.String" itemvalue="Google Test.callback_tests" />
+      <item index="176" class="java.lang.String" itemvalue="Google Test.delete_tests" />
+      <item index="177" class="java.lang.String" itemvalue="Google Test.error_tests" />
+      <item index="178" class="java.lang.String" itemvalue="Google Test.get_tests" />
+      <item index="179" class="java.lang.String" itemvalue="Google Test.head_tests" />
+      <item index="180" class="java.lang.String" itemvalue="Google Test.options_tests" />
+      <item index="181" class="java.lang.String" itemvalue="Google Test.patch_tests" />
+      <item index="182" class="java.lang.String" itemvalue="Google Test.post_tests" />
+      <item index="183" class="java.lang.String" itemvalue="Google Test.proxy_tests" />
+      <item index="184" class="java.lang.String" itemvalue="Google Test.put_tests" />
+      <item index="185" class="java.lang.String" itemvalue="Google Test.raw_body_tests" />
+      <item index="186" class="java.lang.String" itemvalue="Google Test.session_tests" />
+      <item index="187" class="java.lang.String" itemvalue="Google Test.util_tests" />
     </list>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
@@ -526,24 +1593,24 @@
       <workItem from="1490383714964" duration="683000" />
       <workItem from="1490384403049" duration="1218000" />
       <workItem from="1490385626491" duration="17417000" />
-      <workItem from="1490451718868" duration="18146000" />
+      <workItem from="1490451718868" duration="19261000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="85661000" />
+    <option name="totallyTimeSpent" value="86776000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1920" y="-1" width="1920" height="1053" extended-state="6" />
+    <frame x="1920" y="0" width="959" height="1052" extended-state="4" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14654718" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29700854" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29935622" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="CMake" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32832617" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29860365" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="CMake" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32330826" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32296136" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32330826" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32939914" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -601,13 +1668,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Rendering/shaders.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="795">
-          <caret line="53" column="0" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Debug/shaders/vertexShader.vs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -804,14 +1864,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Debug/models/Cube.mtl" />
-    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="13" column="41" selection-start-line="13" selection-start-column="41" selection-end-line="13" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Debug/textures/test.bmp">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -884,7 +1936,7 @@
         <state relative-caret-position="135">
           <caret line="20" column="102" selection-start-line="20" selection-start-column="102" selection-end-line="20" selection-end-column="102" />
           <folding>
-            <element signature="e#104#127#0" expanded="true" />
+            <element signature="e#104#127#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -921,17 +1973,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="123" column="6" selection-start-line="123" selection-start-column="6" selection-end-line="123" selection-end-column="6" />
-          <folding>
-            <element signature="e#0#20#0" expanded="true" />
-            <element signature="e#252#347#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Rendering/ObjModel.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="364">
@@ -952,10 +1993,37 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cpr/opt/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="39" column="0" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="123" column="6" selection-start-line="123" selection-start-column="6" selection-end-line="123" selection-end-column="6" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+            <element signature="e#252#347#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Movement/FreeMovement.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="58">
-          <caret line="44" column="0" selection-start-line="44" selection-start-column="0" selection-end-line="70" selection-end-column="35" />
+        <state relative-caret-position="459">
+          <caret line="66" column="66" selection-start-line="66" selection-start-column="66" selection-end-line="66" selection-end-column="66" />
           <folding>
             <element signature="e#38#77#0" expanded="true" />
           </folding>
